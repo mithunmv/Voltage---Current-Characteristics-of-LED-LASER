@@ -44,7 +44,8 @@ v<img width="1600" height="1439" alt="image" src="https://github.com/user-attach
 ---
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
+<img width="1303" height="1600" alt="image" src="https://github.com/user-attachments/assets/85150816-5bae-404c-b1c7-b2375c38acde" />
+
 
 ---
 
